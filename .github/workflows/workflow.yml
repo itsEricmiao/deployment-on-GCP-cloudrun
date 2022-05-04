@@ -1,4 +1,4 @@
-name: Build Deploy Simple Web Server
+name: Assignment-3 Build Deploy Simple Web Server 
 on:
   push:
     branches: [main]
