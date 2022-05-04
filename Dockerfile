@@ -26,4 +26,4 @@ WORKDIR /var/www/html
 
 EXPOSE 8080
 
-CMD node webserver.js
+CMD node server.js
